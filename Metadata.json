@@ -1,0 +1,20 @@
+{
+    "Author": "Drew Robinson MSFT",
+    "ContentSize": 1042,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-display-all-azure-datacenter-ip-subnets-ranges/master/get-azuresubnets.ps1",
+    "DownloadCount": 1026,
+    "Id": "Powershell-script-to-6cc03244",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 236,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-6-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Powershell script that will extract Azure IP Region IP Ranges from\u00a0Microsoft Azure Datacenter IP Ranges xml document that is updated every Wednesday.",
+    "Title": "Powershell script to display all Azure Datacenter IP subnets ranges",
+    "UpdatedDate": "2016-6-11T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-display-all-azure-datacenter-ip-subnets-ranges",
+    "UserTags": "Microsoft Azure, Datacenter, ip ranges"
+}
